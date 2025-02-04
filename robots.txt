@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.nsbe.engineering.cornell.edu/sitemap.xml
